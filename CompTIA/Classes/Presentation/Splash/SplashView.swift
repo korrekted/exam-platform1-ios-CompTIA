@@ -58,7 +58,7 @@ private extension SplashView {
             .textAlignment(.center)
         
         let attrs2 = TextAttributes()
-            .textColor(Appearance.mainColor)
+            .textColor(Appearance.progress2Color)
             .font(Fonts.SFProRounded.bold(size: 45.scale))
             .lineHeight(53.scale)
             .textAlignment(.center)
