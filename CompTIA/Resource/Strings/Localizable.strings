@@ -53,9 +53,9 @@
 "Onboarding.SlidePreloader.Preloader2" = "Analyzing your study preferences...";
 "Onboarding.SlidePlan.Title" = "YOUR PERSONAL 98% PASS\nRATE STUDY PLAN";
 "Onboarding.SlidePlan.Cell1" = "Multiple sets of questions";
-"Onboarding.SlidePlan.Cell2" = "Consise explanation";
-"Onboarding.SlidePlan.Cell3" = "Different exam modes";
-"Onboarding.SlidePlan.Cell4" = "Reminders and notifications";
+ "Onboarding.SlidePlan.Cell2" = "Consise explanation";
+ "Onboarding.SlidePlan.Cell3" = "Different exam modes";
+ "Onboarding.SlidePlan.Cell4" = "Reminders and notifications";
 "Onboarding.SlidePlan.Button" = "Let’s go!";
 "Onboarding.Welcome.Title1" = "PERSONAL STUDY PLAN";
 "Onboarding.Welcome.Subtitle1" = "The question bank is divided into sets\naccording to your skills, requirements\nand settings";
@@ -118,8 +118,8 @@
 "Settings.Premium" = "PREMIUM";
 "Settings.SelectedExam" = "Selected Exam";
 "Settings.RateUs" = "Rate Us";
-"Settings.ContactUs" = "Contact Us";
-"Settings.TermsOfUse" = "Terms of Use";
+ "Settings.ContactUs" = "Contact Us";
+ "Settings.TermsOfUse" = "Terms of Use";
 "Settings.PrivacyPolicy" = "Privacy Policy";
 "Settings.ExamMode" = "Exam mode";
 "Settings.References" = "References";
