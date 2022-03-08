@@ -39,6 +39,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
 	<string>409442683490667</string>
+	<key>FacebookClientToken</key>
+	<string>c75d5b0a0a43f10429635665b6143e6a</string>
 	<key>FacebookDisplayName</key>
 	<string>CompTIA Exam</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
